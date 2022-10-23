@@ -21,6 +21,7 @@ Estudo, dedicação e boa programação trazem desenvolvimento para a sociedade!
 - Python 💞
 - Scikit Learn, Tensorflow, PyTorch, Teras (avançando no passinho) 🏃‍♂️🏃‍♂️🏃‍♂️
 - MySQL 🔮 
+- Power BI
 
 <br/>
 
