@@ -7,7 +7,7 @@ Sobre mim:
 
 🎓 Atualmente estudo Desenvolvimento Web com foco em Back-end na <a href="https://cubos.academy/" rel="nofollow">Cubos Academy</a> 
 
-🎮 Nos tempos livres, além de estudo, gosto de jogar no PC, sair e ver assistir séries.
+🎮 Nos tempos livres, além de estudo, gosto de jogar no PC, sair e assistir séries.
 
 ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=mfre1re&show_icons=true&theme=tokyonight)
 
