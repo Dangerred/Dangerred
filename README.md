@@ -14,8 +14,8 @@
 
 ## Dedicando-se:
 - Python 💞
-- JavaScript 🤓
-- MySQL 🔮 
+- Node.Js - JavaScript 🤓
+- PostGresSQL - MySQL 📃
 - Power BI
 
 <br/>
