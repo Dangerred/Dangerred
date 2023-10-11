@@ -3,7 +3,7 @@
 
 Sobre mim:
 
-💻 Sou desenvolver Back-end 
+💻 Sou desenvolvedor Back-end 
 
 🎓 Atualmente estudo Desenvolvimento Web com foco em Back-end na <a href="https://cubos.academy/" rel="nofollow">Cubos Academy</a> 
 
