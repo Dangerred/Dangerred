@@ -2,11 +2,12 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfre1re)
 
 Sobre mim:
-Sou desenvolver Back-end
 
-Atualmente estudo Desenvolvimento Web com foco em Back-end na <a href="https://cubos.academy/" rel="nofollow">Cubos Academy</a> 
+💻 Sou desenvolver Back-end 
 
-Nos tempos livres, além de estudo, gosto de jogar no PC, sair e ver assistir séries.
+🎓 Atualmente estudo Desenvolvimento Web com foco em Back-end na <a href="https://cubos.academy/" rel="nofollow">Cubos Academy</a> 
+
+🎮 Nos tempos livres, além de estudo, gosto de jogar no PC, sair e ver assistir séries.
 
 ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=mfre1re&show_icons=true&theme=tokyonight)
 
