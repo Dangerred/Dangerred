@@ -23,7 +23,7 @@ Sobre mim:
 ## Dedicando-se:
 - Python 💞
 - Node.Js - JavaScript 🤓
-- PostGresSQL - MySQL 📃
+- PostgreSQL - MySQL 📃
 - Power BI
 
 <br/>
