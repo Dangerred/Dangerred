@@ -1,31 +1,56 @@
-### Olá! Eu sou o Miguel Freire! ✌️👋
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfre1re)
-
-Sobre mim:
-
-💻 Sou desenvolvedor Back-end 
-
-🎓 Atualmente estudo Desenvolvimento Web com foco em Back-end na <a href="https://cubos.academy/" rel="nofollow">Cubos Academy</a> 
-
-🎮 Nos tempos livres, além de estudo, gosto de jogar no PC, sair e assistir séries.
-
-![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=mfre1re&show_icons=true&theme=tokyonight)
-
-### Tecnologias do meu dia a dia e em desenvolvimento 
-
-<div style="display: inline_block"><br/> 
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" src="https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="Postgres" data-canonical-src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">   
-    <img align="center" src="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="NodeJS" data-canonical-src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;">
+<div align="center">
+  <img height="250" src="https://live.staticflickr.com/65535/53440895502_74e539ca2f_b.jpg"  />
 </div>
 
-## Dedicando-se:
-- Python 💞
-- Node.Js - JavaScript 🤓
-- PostgreSQL - MySQL 📃
-- Power BI
+###
 
-<br/>
+<h2 align="center">Miguel Freire  👨‍💻 Desenvolvedor BE</h2>
 
-## Foco total!!!
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mfre1re/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Me%20adicione&logo=linkedin&label=&color=f8c291&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/miguelsf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Conquistas&logo=hackerrank&label=&color=f8c291&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img align="right" height="250" src="https://live.staticflickr.com/65535/53441822956_128b30b11f_o.png"  />
+  <p align="left">👋 Olá, seja bem vindo ao meu perfil.<br><br>📌 Salvador/BA - Brasil.<br>🎓 Formado em Engª Civil pela UNIFACS.<br>⚙ Formação Dev Backend pela Cubus Academy.<br>🛠 JavaScript, Node e PostgreSQL voltado para o Backend.<br>🐍 Apaixonado por Python e seus recursos.<br>🧙‍♂️ Fã de Senhor dos Anéis.<br>🎮 Jogo alguns games de PC no meu  tempo livre e,<br>🪁 SEMPRE buscando evoluir!<br><br>⚠ Atualmente estou me dedicando a me capacitar nos cursos na DIO e da Hashtag Treinamentos. Se você também está nessa jornada, não deixe de me adicionar para trocarmos ideias, experiências e tornar a comunidade cada vez melhor! ⚠</p>
+</div>
+
+###
+
+<h3 align="center">Principais Ferramentas</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfre1re&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mfre1re&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+###
