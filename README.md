@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Miguel Freire  👨‍💻 Desenvolvedor BE</h2>
+<h2 align="center">Miguel Freire  👨‍💻 Desenvolvedor BackEnd</h2>
 
 ###
 
